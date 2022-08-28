@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/start"
+        android:layout_width="100dp"
+        android:layout_height="75dp"
+        android:onClick="onclicked1"
+        android:text="Start Lock" />
+
+    <Button
+        android:id="@+id/end"
+        android:layout_width="100dp"
+        android:layout_height="75dp"
+        android:onClick="onclicked2"
+        android:text="End Lock" />
+
+    <Button
+        android:id="@+id/on"
+        android:layout_width="100dp"
+        android:layout_height="75dp"
+        android:onClick="onclicked3"
+        android:text="Beacon On" />
+
+    <Button
+        android:id="@+id/off"
+        android:layout_width="100dp"
+        android:layout_height="75dp"
+        android:onClick="onclicked4"
+        android:text="Beacon Off" />
+
+</LinearLayout>
