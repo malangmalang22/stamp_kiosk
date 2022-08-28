@@ -29,6 +29,7 @@
 
 		참조소스 출처:
 		https://altbeacon.github.io/android-beacon-library/index.html
+		https://github.com/AltBeacon/altbeacon-transmitter-android/blob/master/src/org/altbeacon/beacon/transmitter/MainActivity.java
 
 		1-2. 비콘 스캔앱
 
@@ -36,6 +37,7 @@
 
 		참조소스 출처:
 		https://altbeacon.github.io/android-beacon-library/index.html
+		https://pgnt.tistory.com/76
 		
 
 		
