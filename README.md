@@ -21,7 +21,7 @@
 
 	1. 비콘 송수신 기능 구현
 
-		1-1. 비콘 송신앱
+		1-1. 비콘 송신앱 (MyBC)
 
 		키오스크에서 BLE advertising
 
@@ -29,7 +29,7 @@
 		https://altbeacon.github.io/android-beacon-library/index.html
 		https://github.com/AltBeacon/altbeacon-transmitter-android/blob/master/src/org/altbeacon/beacon/transmitter/MainActivity.java
 
-		1-2. 비콘 스캔앱
+		1-2. 비콘 스캔앱 (MyMP)
 
 		휴대폰에서 BLE advertising 신호 스캔 및 DB서버에 logging
 
